@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="MobileApp.Apply_Online"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" FontSize="25">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="30" FontWeight="Bold">There are three ways to <LineBreak></LineBreak> apply online</TextBlock>
+        <Image Source="assets/online.jpg" HorizontalAlignment="Left" Height="166" Margin="14,129,0,0" VerticalAlignment="Top" Width="317" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="0,359,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold">
+            1.Online-CTUtrainning.ac.za
+        <LineBreak></LineBreak> 2.Campuses Nationwide<LineBreak></LineBreak>
+            3 .SMS "APPLICATION" TO<LineBreak></LineBreak> 
+            41721
+        </TextBlock>
+        <Button x:ConnectionId='1' Content="Back" HorizontalAlignment="Left" Margin="105,541,0,0" VerticalAlignment="Top" Height="76" Width="188" FontSize="24"                     />
+
+    </Grid>
+</Page>
+

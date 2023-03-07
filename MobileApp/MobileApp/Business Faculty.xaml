@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="MobileApp.Business_Faculty"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="26" FontWeight="Bold">BUSINESS FACULTY<LineBreak></LineBreak><LineBreak></LineBreak>
+          PROJECT MANAGEMENT: <LineBreak></LineBreak> 
+            Consist of planning, organisati-<LineBreak></LineBreak>-on, motivation as well as<LineBreak></LineBreak> control and allocation of<LineBreak></LineBreak>resources needed to achieve.<LineBreak></LineBreak>
+           -GENERIC MANAGEMENT:<LineBreak></LineBreak>Leadership,managing the<LineBreak></LineBreak> environment, managing<LineBreak></LineBreak> relations, managing knowledge<LineBreak></LineBreak> and the practise of<LineBreak></LineBreak>  management.<LineBreak>
+</LineBreak>-OFFICE ADMINISTRATION:<LineBreak></LineBreak> You gain bookeeping,skills and<LineBreak></LineBreak> all around office knowledge to<LineBreak></LineBreak>manage ofice
+        </TextBlock>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="188,562,0,0" VerticalAlignment="Top" Height="61" Width="123" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Page>

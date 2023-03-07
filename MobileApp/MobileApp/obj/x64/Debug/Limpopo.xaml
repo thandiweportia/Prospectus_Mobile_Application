@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="MobileApp.Limpopo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="24" FontWeight="Bold">Limpopo<LineBreak></LineBreak> <LineBreak></LineBreak> Polokwane Campus<LineBreak></LineBreak> Branch Manager :Olive Gumikiriza <LineBreak></LineBreak>
+            25 Devenish Street, Polokwane <LineBreak></LineBreak> Tel: 015 297 3250 <LineBreak></LineBreak> polokwane@ctutraining.co.za
+
+        </TextBlock>
+        <Image HorizontalAlignment="Left" Height="141" Margin="19,248,0,0" VerticalAlignment="Top" Width="297" Source="Assets/Polokwane.PNG" Stretch="Fill"/>
+        <Button x:ConnectionId='1' Content="Map" HorizontalAlignment="Left" Margin="128,429,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"                       />
+        <Button x:ConnectionId='2' Content="Back" HorizontalAlignment="Left" Margin="123,511,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"                     />
+    </Grid>
+</Page>
+

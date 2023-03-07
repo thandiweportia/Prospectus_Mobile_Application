@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="MobileApp.Western_Cape"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="24" FontWeight="Bold">
+            Western Cape<LineBreak></LineBreak><LineBreak></LineBreak>Stellenbosch Campus<LineBreak></LineBreak>Branch Manager :Chantelle<LineBreak></LineBreak> Botha<LineBreak></LineBreak> 1st floor,Memory Lane
+            Building<LineBreak></LineBreak>,Cnr. and Banghoek Street <LineBreak></LineBreak> Tel: 021 887 5375 <LineBreak></LineBreak> stellenbosch@ctutraining.co.za
+        </TextBlock>
+        <Image HorizontalAlignment="Left" Height="132" Margin="33,307,0,0" VerticalAlignment="Top" Width="294" Source="Assets/Stellenbosch.PNG" Stretch="Fill"/>
+        <Button Content="Map" HorizontalAlignment="Left" Margin="133,466,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click_1"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="137,534,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Page>

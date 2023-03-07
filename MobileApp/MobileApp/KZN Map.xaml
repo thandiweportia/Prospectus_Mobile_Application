@@ -1,0 +1,17 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Custom="using:Windows.UI.Xaml.Controls.Maps"
+    x:Class="MobileApp.KZN_Map"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock FontSize="24" FontWeight="Bold"><Run Text="Durban Cmpus"/></TextBlock>
+        <Button Content="Back" HorizontalAlignment="Center" Margin="0,465,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Height="55" Width="133" Click="Button_Click"/>
+        <Custom:MapControl Name="KZN" HorizontalAlignment="Center" Margin="0,37,0,0" VerticalAlignment="Top" Height="356" Width="255"/>
+    </Grid>
+</Page>

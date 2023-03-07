@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="MobileApp.Gauteng"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="24" FontWeight="Bold" RenderTransformOrigin="0.486,0.527">Gauteng <LineBreak></LineBreak> <LineBreak></LineBreak>Auckland Park Campus<LineBreak></LineBreak>
+            Branch Manager :Cheryl Bronkhorst <LineBreak></LineBreak> Curatio Building,3 Annet Road<LineBreak></LineBreak> Tel: 011 482 7422<LineBreak></LineBreak> aucklandpark@ctutraining.co.za<LineBreak></LineBreak>
+        </TextBlock>
+        <Image HorizontalAlignment="Left" Height="183" Margin="16,236,0,0" VerticalAlignment="Top" Width="314" Source="Assets/Auckland Park.PNG" Stretch="Fill"/>
+        <Button x:ConnectionId='1' Content="Map" HorizontalAlignment="Left" Margin="119,466,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"                       />
+        <Button x:ConnectionId='2' Content="Back" HorizontalAlignment="Left" Margin="123,543,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"                     />
+
+    </Grid>
+</Page>
+

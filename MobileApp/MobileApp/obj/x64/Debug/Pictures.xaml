@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="MobileApp.Pictures"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock FontSize="24" FontWeight="Bold">Campus Life</TextBlock>
+        <StackPanel>
+            <FlipView RenderTransformOrigin="0.502,0.399" HorizontalAlignment="Center" Height="432" VerticalAlignment="Top">
+                <Image Source="Assets/ctu_students.jpg" HorizontalAlignment="Center" Margin="0,97,0,0" VerticalAlignment="Top" Height="231" />
+                <Image Source="Assets/students.jpg" Stretch="Fill" Height="211" Width="211"></Image>
+                <Image Source="Assets/ctu1.jpg" Height="211" Width="211"></Image>
+                <Button/>
+
+            </FlipView>
+            <Button x:ConnectionId='1' Content="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Height="74" Width="115" FontSize="24" FontWeight="Bold"                      Margin="0,0,0,0"/>
+        </StackPanel>
+    </Grid>
+
+</Page>
+

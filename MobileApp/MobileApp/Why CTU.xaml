@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="MobileApp.Why_CTU"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="25" FontWeight="Bold">
+          Why CTU?<LineBreak></LineBreak> <LineBreak></LineBreak> -Demand for international <LineBreak></LineBreak>
+ certified CTU graduates is <LineBreak></LineBreak> high    <LineBreak></LineBreak> -National Qualifications <LineBreak></LineBreak> approved 
+ <LineBreak></LineBreak>  -Small Classes <LineBreak></LineBreak> -Two intake per year<LineBreak></LineBreak>-Evening and Saturday classes
+ <LineBreak></LineBreak>- National and international<LineBreak></LineBreak>  Certifications<LineBreak></LineBreak>  -Over 900 short courses
+ <LineBreak></LineBreak>  -Full time and part time<LineBreak></LineBreak> studies
+        </TextBlock>
+        <Button Content="Back" HorizontalAlignment="Center" Margin="0,532,0,0" VerticalAlignment="Top" Height="70" Width="182" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="MobileApp.National_Courses"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="25" FontWeight="Bold">
+            IT FACULTY<LineBreak></LineBreak> <LineBreak></LineBreak>
+            -IT TECHNICAL SUPPORT<LineBreak></LineBreak>The outcome is entry <LineBreak></LineBreak> professionalwith good <LineBreak></LineBreak> fundmental knowledge of<LineBreak>
+</LineBreak>  techmology field. <LineBreak></LineBreak><LineBreak></LineBreak>
+            -BUSINESS ANALYSIS<LineBreak></LineBreak> Suite of qualification will have<LineBreak></LineBreak> a positive impact on the broader<LineBreak></LineBreak> economy of South Africa <LineBreak></LineBreak><LineBreak></LineBreak>
+           
+            -WEB DEVELOPMENT<LineBreak></LineBreak> students acquires requisite <LineBreak></LineBreak> 
+            skills to becomme a Web<LineBreak></LineBreak> Developer
+            
+        </TextBlock>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="153,566,0,0" VerticalAlignment="Top" Height="57" Width="125" FontSize="24" FontWeight="Bold"/>
+    </Grid>
+    </Page>

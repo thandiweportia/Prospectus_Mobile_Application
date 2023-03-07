@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="MobileApp.North_West"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="24" FontWeight="Bold">North West <LineBreak></LineBreak><LineBreak></LineBreak> Potchestroom Campus<LineBreak></LineBreak> Branch Manager :Antoinette van Zyl <LineBreak>
+        </LineBreak> 39Buskus street, Baillie Park<LineBreak></LineBreak> Tel:018 290 5340<LineBreak></LineBreak> potchesfstroom@ctutraining<LineBreak></LineBreak>.co.za
+        </TextBlock>
+        <Image HorizontalAlignment="Left" Height="186" Margin="12,264,0,0" VerticalAlignment="Top" Width="330" Source="Assets/potchefstroom.PNG" Stretch="Fill"/>
+        <Button Content="Map" HorizontalAlignment="Left" Margin="137,484,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click_1"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="142,552,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
+
+    </Grid>
+</Page>

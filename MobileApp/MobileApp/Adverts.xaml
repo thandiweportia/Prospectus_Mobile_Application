@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="MobileApp.Adverts"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock FontSize="24" FontWeight="Bold">Adverts</TextBlock>
+        <StackPanel Margin="1,86,-1,10">
+            
+                <MediaElement Source="Assets/CTU SRC Camp 2017.mp4" HorizontalAlignment="Center" Margin="0,66,0,0" VerticalAlignment="Top" Height="246"/>
+                <MediaElement Source="Assets/CTU Intro.mp4"/>
+            
+        </StackPanel>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="145,504,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Page>

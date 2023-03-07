@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="MobileApp.KwaZulu_Natal"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="24" FontWeight="Bold"> KwaZulu-Natal<LineBreak></LineBreak><LineBreak></LineBreak> Durban Campus <LineBreak></LineBreak>Branch Manager :Kim Botha <LineBreak></LineBreak>
+      245 Peter Mokaba Road,Cnr.<LineBreak></LineBreak> Valley View Road, Morningside,<LineBreak></LineBreak>Durban<LineBreak></LineBreak> Tel: 031 303 1280<LineBreak></LineBreak> 
+        durban@ctutraining.co.za</TextBlock>
+        <Image Height="135" Margin="20,290,40,0" VerticalAlignment="Top" Source="Assets/Durban.PNG" Stretch="Fill"/>
+        <Button Content="Map" HorizontalAlignment="Left" Margin="141,456,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click_1"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="142,543,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Page>

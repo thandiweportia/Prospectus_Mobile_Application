@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="MobileApp.Design_Faculty"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" FontSize="30">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock FontSize="25" FontWeight="Bold">DESIGN FACULTY
+            <LineBreak></LineBreak> GRAPHIC DESIGN: Qualifica<LineBreak></LineBreak>-tion provide a foundation for <LineBreak></LineBreak> variety design-oriented fields
+            <LineBreak></LineBreak> -COMPUTER AIDED <LineBreak></LineBreak>DRAUGHTING AND DESIGN:<LineBreak></LineBreak>Prepare Technical drawings
+          <LineBreak></LineBreak>  sets for the use of <LineBreak></LineBreak> construction process using <LineBreak></LineBreak>advanced software to bring <LineBreak></LineBreak>project to life.
+            <LineBreak></LineBreak>DIPLOMA: VISUAL <LineBreak></LineBreak> COMMUNICATION*:Is to <LineBreak></LineBreak>equip students to develop<LineBreak></LineBreak> innovative design
+            <LineBreak></LineBreak> effective communicate design<LineBreak></LineBreak> and advance technical skill.
+        </TextBlock>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="84,572,0,0" VerticalAlignment="Top" Height="67" Width="182" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="MobileApp.Free_State"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MobileApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:ConnectionId='1' FontSize="24" FontWeight="Bold"                                              >Free State<LineBreak></LineBreak> <LineBreak></LineBreak> Bloemfontein Campus<LineBreak></LineBreak> Branch Manager:Ursula Spruew <LineBreak></LineBreak>
+        1st floor, pretty Suites Office<LineBreak></LineBreak> Block,  Pretty Gardens Lifestyle Centre <LineBreak></LineBreak> Tel:051 451 2210 <LineBreak></LineBreak>
+        bloemfontein@ctutraining.co.<LineBreak></LineBreak>za</TextBlock>
+        <Image HorizontalAlignment="Left" Height="176" Margin="41,272,0,0" VerticalAlignment="Top" Width="301" Source="Assets/Bloemfontein.PNG" Stretch="Fill"/>
+        <Button x:ConnectionId='2' Content="Map" HorizontalAlignment="Left" Margin="64,471,0,0" VerticalAlignment="Top" Height="55" Width="120" FontSize="24" FontWeight="Bold"                       />
+        <Button x:ConnectionId='3' Content="Back" HorizontalAlignment="Left" Margin="55,548,0,0" VerticalAlignment="Top" Height="64" Width="129" FontSize="24" FontWeight="Bold"                     />
+
+    </Grid>
+</Page>
+

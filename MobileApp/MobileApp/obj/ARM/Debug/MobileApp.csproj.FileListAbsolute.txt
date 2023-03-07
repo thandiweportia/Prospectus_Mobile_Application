@@ -1,0 +1,973 @@
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.csprojResolveAssemblyReference.cache
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\App.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\App.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Location.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Location.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\North West.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\North West.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.g.i.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\App.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Location.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\North West.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.xaml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\App.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Location.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\North West.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\App.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\About CTU.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Activities.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Apply Online.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Business Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Courses.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Design Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Eastern Cape.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\EC Map.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Free State.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Gauteng.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\IT_Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\KwaZulu-Natal.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Limpopo.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Location.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\MainPage.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\IT Faculty.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Mpumalanga.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\North West.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Videos.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Western Cape.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Why CTU.xbf
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.xr.xml
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.exe
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.pdb
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\resources.pri
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Core\MobileApp.exe
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.build.appxrecipe
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Core.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Numerics.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Windows.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Globalization.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\clrcompression.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.AppContext.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Buffers.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.exe
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.pdb
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\priconfig.xml
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\layout.resfiles
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\resources.resfiles
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\pri.resfiles
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\qualifiers.txt
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Local Admin\Desktop\mine\MobileApp\obj\ARM\Debug\ProjectArchitectures.txt
+E:\Done\mine\MobileApp\bin\ARM\Debug\App.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\About CTU.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Activities.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Apply Online.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Business Faculty.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Courses.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Design Faculty.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Eastern Cape.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\EC Map.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Free State.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Gauteng.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\IT_Faculty.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\KwaZulu-Natal.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Limpopo.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Location.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\MainPage.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\IT Faculty.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Mpumalanga.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\North West.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Videos.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Western Cape.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\Why CTU.xbf
+E:\Done\mine\MobileApp\bin\ARM\Debug\MobileApp.xr.xml
+E:\Done\mine\MobileApp\bin\ARM\Debug\MobileApp.exe
+E:\Done\mine\MobileApp\bin\ARM\Debug\MobileApp.pdb
+E:\Done\mine\MobileApp\bin\ARM\Debug\resources.pri
+E:\Done\mine\MobileApp\bin\ARM\Debug\AppxManifest.xml
+E:\Done\mine\MobileApp\bin\ARM\Debug\Core\AppxManifest.xml
+E:\Done\mine\MobileApp\bin\ARM\Debug\Core\MobileApp.exe
+E:\Done\mine\MobileApp\bin\ARM\Debug\MobileApp.build.appxrecipe
+E:\Done\mine\MobileApp\bin\ARM\Debug\Microsoft.CSharp.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Core.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Numerics.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Web.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Windows.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Xml.Linq.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Xml.Serialization.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Xml.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\Microsoft.VisualBasic.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Collections.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Tools.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Globalization.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Globalization.Calendars.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.IO.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.Extensions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.Primitives.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Resources.ResourceManager.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.Handles.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.InteropServices.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Threading.Timer.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Debug.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.IO.FileSystem.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.Primitives.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.Sockets.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.Extensions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Private.Uri.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\clrcompression.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.AppContext.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Buffers.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Collections.Concurrent.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Collections.Immutable.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Collections.NonGeneric.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Collections.Specialized.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Data.Common.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Dynamic.Runtime.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Globalization.Extensions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.IO.Compression.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Linq.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Linq.Expressions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Linq.Parallel.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Linq.Queryable.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.Http.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.Http.Rtc.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.NameResolution.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.NetworkInformation.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.Requests.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.WebSockets.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Numerics.Vectors.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ObjectModel.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Private.ServiceModel.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.Context.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.Metadata.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.Numerics.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Security.Claims.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Security.Principal.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Http.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Security.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Text.RegularExpressions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Threading.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Threading.Overlapped.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Xml.XDocument.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Xml.XmlDocument.dll
+E:\Done\mine\MobileApp\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+E:\Done\mine\MobileApp\obj\ARM\Debug\MobileApp.csprojAssemblyReference.cache
+E:\Done\mine\MobileApp\obj\ARM\Debug\App.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\App.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\About CTU.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\About CTU.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Activities.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Activities.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Apply Online.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Apply Online.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Business Faculty.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Business Faculty.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Courses.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Courses.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Design Faculty.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Design Faculty.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Eastern Cape.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Eastern Cape.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\EC Map.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\EC Map.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Free State.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Free State.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Gauteng.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Gauteng.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT_Faculty.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT_Faculty.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Limpopo.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Limpopo.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Location.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Location.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\MainPage.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\MainPage.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT Faculty.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT Faculty.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Mpumalanga.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Mpumalanga.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\North West.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\North West.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Videos.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Videos.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Western Cape.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Western Cape.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Why CTU.g.i.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\Why CTU.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\XamlTypeInfo.g.cs
+E:\Done\mine\MobileApp\obj\ARM\Debug\App.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\About CTU.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Activities.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Apply Online.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Business Faculty.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Courses.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Design Faculty.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Eastern Cape.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\EC Map.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Free State.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Gauteng.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT_Faculty.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Limpopo.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Location.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\MainPage.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT Faculty.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Mpumalanga.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\North West.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Videos.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Western Cape.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\Why CTU.xaml
+E:\Done\mine\MobileApp\obj\ARM\Debug\App.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\About CTU.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Activities.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Apply Online.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Business Faculty.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Courses.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Design Faculty.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Eastern Cape.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\EC Map.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Free State.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Gauteng.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT_Faculty.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Limpopo.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Location.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\MainPage.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\IT Faculty.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Mpumalanga.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\North West.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Videos.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Western Cape.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\Why CTU.xbf
+E:\Done\mine\MobileApp\obj\ARM\Debug\XamlSaveStateFile.xml
+E:\Done\mine\MobileApp\obj\ARM\Debug\MobileApp.csproj.CoreCompileInputs.cache
+E:\Done\mine\MobileApp\obj\ARM\Debug\MobileApp.csproj.CopyComplete
+E:\Done\mine\MobileApp\obj\ARM\Debug\MobileApp.exe
+E:\Done\mine\MobileApp\obj\ARM\Debug\MobileApp.pdb
+E:\Done\mine\MobileApp\obj\ARM\Debug\ResourceHandlingTask.state
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\Done\mine\MobileApp\obj\ARM\Debug\priconfig.xml
+E:\Done\mine\MobileApp\obj\ARM\Debug\priconfig.xml.intermediate
+E:\Done\mine\MobileApp\obj\ARM\Debug\layout.resfiles
+E:\Done\mine\MobileApp\obj\ARM\Debug\layout.resfiles.intermediate
+E:\Done\mine\MobileApp\obj\ARM\Debug\resources.resfiles
+E:\Done\mine\MobileApp\obj\ARM\Debug\resources.resfiles.intermediate
+E:\Done\mine\MobileApp\obj\ARM\Debug\pri.resfiles
+E:\Done\mine\MobileApp\obj\ARM\Debug\pri.resfiles.intermediate
+E:\Done\mine\MobileApp\obj\ARM\Debug\qualifiers.txt
+E:\Done\mine\MobileApp\obj\ARM\Debug\qualifiers.txt.intermediate
+E:\Done\mine\MobileApp\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Done\mine\MobileApp\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\App.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\About CTU.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Activities.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Apply Online.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Business Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Courses.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Design Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Eastern Cape.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\EC Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Free State.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\FS Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Gauteng.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\GP Mapxaml.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\IT_Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\KwaZulu-Natal.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\KZN Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Limpopo.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\LM Campus.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Location.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\MainPage.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\IT Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\MP campus.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Mpumalanga.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\North West.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\NW Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Videos.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\WC Campus.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Western Cape.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Why CTU.xbf
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.xr.xml
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.exe
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.pdb
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\resources.pri
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\AppxManifest.xml
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Core\MobileApp.exe
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\MobileApp.build.appxrecipe
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Core.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Numerics.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Windows.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Globalization.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\clrcompression.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.AppContext.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Buffers.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\4167\Desktop\mine\MobileApp\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.csprojAssemblyReference.cache
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\App.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\App.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FS Map.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FS Map.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\GP Mapxaml.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\GP Mapxaml.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KZN Map.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KZN Map.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\LM Campus.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\LM Campus.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Location.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Location.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MP campus.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MP campus.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\North West.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\North West.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\NW Map.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\NW Map.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\WC Campus.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\WC Campus.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.g.i.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\App.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Location.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\North West.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FS Map.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\GP Mapxaml.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KZN Map.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\LM Campus.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MP campus.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\NW Map.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\WC Campus.xaml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\App.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\About CTU.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Activities.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Apply Online.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Business Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Courses.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Design Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Eastern Cape.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Free State.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Gauteng.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT_Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KwaZulu-Natal.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Limpopo.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Location.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MainPage.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\IT Faculty.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Mpumalanga.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\North West.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Videos.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Western Cape.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\Why CTU.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\EC Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FS Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\GP Mapxaml.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\KZN Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\LM Campus.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MP campus.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\NW Map.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\WC Campus.xbf
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.csproj.CopyComplete
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.exe
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MobileApp.pdb
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\priconfig.xml
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\layout.resfiles
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\resources.resfiles
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\pri.resfiles
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\qualifiers.txt
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\4167\Desktop\mine\MobileApp\obj\ARM\Debug\ProjectArchitectures.txt
